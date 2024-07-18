@@ -43,8 +43,8 @@ const brand = {
         privacyPolicyTitle: 'MiroTalk - privacy and policy.',
         stunTurnTitle: 'Test Stun/Turn Servers.',
         notFoundTitle: 'MiroTalk - 404 Page not found.',
-        shortcutIcon: '../images/logo.svg',
-        appleTouchIcon: '../images/logo.svg',
+        shortcutIcon: '../images/mainlogo.jpg',
+        appleTouchIcon: '../images/mainlogo.jpg',
     },
     html: {
         features: true,
