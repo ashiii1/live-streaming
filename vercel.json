@@ -8,19 +8,19 @@
     ],
     "routes": [
       {
-        "src": "/api/(.*)",
+        "src": "app/src/api/(.*)",
         "dest": "app/src/api.js"
       },
       {
-        "src": "/host/(.*)",
+        "src": "app/src/host/(.*)",
         "dest": "app/src/host.js"
       },
       {
-        "src": "/logs/(.*)",
+        "src": "app/src/logs/(.*)",
         "dest": "app/src/logs.js"
       },
       {
-        "src": "/xss/(.*)",
+        "src": "app/src/xss/(.*)",
         "dest": "app/src/xss.js"
       },
       {
